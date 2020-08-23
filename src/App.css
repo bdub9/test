@@ -1,10 +1,16 @@
 .App {
-  text-align: center;
+  width: 100%;
+  margin: 0 auto;
+  background-color: black;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+.gifs {
+  max-width: 700px;
+  margin: 0 auto;  
 }
 
 @media (prefers-reduced-motion: no-preference) {
